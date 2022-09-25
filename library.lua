@@ -919,3 +919,5 @@ end
 function library:ToggleUI()
 self.UI.Enabled = not self.UI.Enabled
 end
+
+return library
